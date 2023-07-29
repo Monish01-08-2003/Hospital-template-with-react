@@ -1,0 +1,191 @@
+.backgroundHome {
+  background-color: rgb(0, 0, 0);
+  background-image: url("/public/Images/glass-buildings-seen-from-lake.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 200px 0px 200px 0px;
+}
+.heading {
+  background-color: rgba(0, 0, 0, 0.275);
+  color: white;
+  text-align: center;
+}
+.heading:hover {
+  background-color: rgba(210, 209, 209, 0.275);
+  transition-duration: 1s;
+  color: black;
+}
+.logo {
+  width: 75px;
+  height: 75px;
+}
+.servicecard {
+  border-radius: 25px;
+}
+.sarvicewholecard {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.servicetxt {
+  margin-left: 0px;
+  margin-top: 25px;
+  color: rgb(0, 0, 0);
+}
+.Services {
+  background-image: url("../Images/blurred-abstract-background-interior-view-looking-out-toward-empty-office-lobby-entrance-doors-glass-curtain-wall-with-frame.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 50px 0px 50px 0px;
+  text-align: center;
+  background-color: rgb(235, 251, 255);
+}
+
+.Doctors {
+  padding-bottom: 25px;
+  background-color: rgb(235, 251, 255);
+}
+.doctorimg {
+  margin-top: 25px;
+  height: 100px;
+  width: 125px;
+  border-radius: 100%;
+}
+.doctorcol {
+  height: 300px;
+  width: auto;
+  margin: auto;
+}
+.docheading {
+  text-align: center;
+}
+.doctorcard {
+  border: 0.5px solid;
+  border-color: rgb(204, 204, 204);
+  width: 300px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.docimg {
+  margin-top: 25px;
+  height: 325px;
+}
+
+.docname:after {
+  display: block;
+  content: "";
+  border-bottom: solid 3px #019fb6;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+.docname:hover:after {
+  transform: scaleX(1);
+}
+
+.doctorcard:after {
+  display: block;
+  content: "";
+  border-bottom: solid 3px #019fb6;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+.doctorcard:hover:after {
+  transform: scaleX(1.1);
+  -webkit-transform: scaleX(1.1);
+  -moz-transform: scaleX(1.1);
+  -ms-transform: scaleX(1.1);
+  -o-transform: scaleX(1.1);
+}
+
+.whychoseus {
+  background-image: url("../Images/blurred-abstract-background-interior-view-looking-out-toward-empty-office-lobby-entrance-doors-glass-curtain-wall-with-frame.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.whyuslogo {
+  width: 75px;
+  height: 75px;
+}
+.whyustext {
+  border-radius: 25px;
+}
+.whyussubcard {
+  margin-left: 75px;
+}
+.whyusimg {
+  border-radius: 25px;
+  height: 400px;
+  width: 500px;
+}
+.uscard1 {
+  margin: 25px 0px 25px 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.testimonialalign {
+  margin-left: auto;
+  margin-right: auto;
+}
+.Testimonials {
+  background-color: rgb(235, 251, 255);
+  text-align: center;
+}
+.testtimonialtext {
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+}
+.testimonialimg {
+  width: 50px;
+  height: 50px;
+}
+.testmonialborder {
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  border-bottom: solid;
+  border-color: rgb(182, 182, 182);
+  margin-left: auto;
+  margin-right: auto;
+}
+.Hospitalfeature {
+  background-color: rgb(235, 251, 255);
+
+  padding-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.hospitalfeaturetxt {
+  border: 1px solid;
+  align-content: center;
+  margin-bottom: 25px;
+}
+.featurealign {
+  margin-left: auto;
+  margin-right: auto;
+}
+.Hospitalfeatureimg {
+  margin-bottom: 25px;
+  margin-top: px;
+  height: 350px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.slider {
+  height: 30rem;
+   width: 50rem;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}

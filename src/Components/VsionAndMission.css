@@ -1,0 +1,42 @@
+.Vision {
+  background-color: rgb(224, 255, 213);
+  text-align: justify;
+}
+.visiontxt {
+  text-align: center;
+}
+.visionimg {
+  margin-top: 50px;
+  margin-bottom: auto;
+  border-radius: 25px;
+  height: 400px;
+  width: auto;
+  -webkit-border-radius: 25px;
+}
+.visionBanner {
+  text-align: center;
+  padding: 75px 0px 75px 0px;
+  background-image: url("/public/Images/visionbanner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bannnertxt {
+  background-color: rgba(0, 0, 0, 0.275);
+  color: white;
+  text-align: center;
+}
+.bannerimg {
+  margin-top: 50px;
+  margin-bottom: auto;
+  border-radius: 25px;
+  height: 400px;
+  width: auto;
+  -webkit-border-radius: 25px;
+}
+.bannercenter {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}

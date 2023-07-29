@@ -1,0 +1,27 @@
+.contacttxt {
+  margin-left: 10px;
+  color: white;
+}
+.contactuscoltxt {
+  margin-left: 120px;
+  background-color: rgb(0, 0, 0);
+}
+
+.enquirefrom {
+  background-color: rgb(73, 128, 175);
+}
+.enquire1 {
+  margin-top: 15px;
+}
+.enquirebtn {
+  border-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 15px;
+
+  border: 1px solid;
+  border-color: rgb(255, 255, 255);
+}
+.enquirebtn:hover {
+  border-bottom: 1px solid rgb(164, 164, 164);
+  background-color: rgb(163, 163, 163);
+}
